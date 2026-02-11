@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "アクアテラリウム",
+  "base_artist": "yanaginagi",
+  "createdAt": "2026-02-11T16:06:47.701311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/01_アクアテラリウム_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アクアテラリウム",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/02_アクアテラリウム_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アクアテラリウム",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/03_アクアテラリウム_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アクアテラリウム <instrumental>",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/04_アクアテラリウム__instrumental_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/05_アクアテラリウム_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アクアテラリウム (Nagi Yanagi) (Nagi no Asukara)",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/06_アクアテラリウム_(Nagi_Yanagi)_(Nagi_no_Asukara)_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/07_アクアテラリウム_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アクアテラリウム (Instrumental)",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/08_アクアテラリウム_(Instrumental)_やなぎなぎ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_アクアテラリウム_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_02_アクアテラリウム_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_03_アクアテラリウム_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_04_アクアテラリウム_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_05_アクアテラリウム_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_06_アクアテラリウム_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_07_アクアテラリウム_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "アクアテラリウム",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_08_アクアテラリウム_やなぎなぎ.txt"
+    }
+  ]
+}
